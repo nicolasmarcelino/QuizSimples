@@ -1,2 +1,2 @@
 # QuizSimples
-A simples quiz application made based on a tutorial video (https://www.youtube.com/watch?v=f4fB9Xg2JEY).
+A simple quiz application made based on a tutorial video provided by Brian Design (https://www.youtube.com/watch?v=f4fB9Xg2JEY).
